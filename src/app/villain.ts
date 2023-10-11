@@ -1,6 +1,4 @@
-//Interfaz de 'Hero'
-
-export interface Hero {
+export interface Villain {
     id: number;
     name: string;
     power: string;
